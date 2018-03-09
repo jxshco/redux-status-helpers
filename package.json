@@ -1,7 +1,7 @@
 {
   "name": "redux-status-helpers",
   "version": "1.0.0",
-  "description": "",
+  "description": "Structure Redux Better with Different Statuses",
   "main": "./lib/index.js",
   "directories": {
     "lib": "lib",
@@ -12,7 +12,21 @@
     "prepublish": "npm run build",
     "test": "jest"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxshco/redux-status-helpers.git"
+  },
+  "keywords": [
+    "redux",
+    "javascript",
+    "status",
+    "es6"
+  ],
+  "author": "Josh Sturrock <hello@jxsh.co>",
+  "bugs": {
+    "url": "https://github.com/jxshco/redux-status-helpers/issues"
+  },
+  "homepage": "https://github.com/jxshco/redux-status-helpers#readme",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
