@@ -80,6 +80,6 @@ const reducer = (state = {logged_in: false, logging_in: false, error: null}, act
 
 ```
 
-## License
+## Licence
 
 <a href="https://github.com/jxshco/redux-status-helpers/blob/master/LICENCE">MIT</a>
