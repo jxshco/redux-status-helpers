@@ -31,6 +31,9 @@ dispatch({type: success('LOGIN')}) //LOGIN__SUCCESS
 dispatch({type: fail('LOGIN')}) //LOGIN__FAILURE
 ```
 
+## Style
+[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
 ## License
 
 MIT
