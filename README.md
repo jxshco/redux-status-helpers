@@ -28,6 +28,7 @@ Typically when working with redux I work with API's or other things that may suc
 - Quick start
   - [Install](#install)
   - [Usage](#usage)
+  - [Contributing](#contributing)
   - [Licence](#licence)
 
 
@@ -76,9 +77,11 @@ const reducer = (state = {logged_in: false, logging_in: false, error: null}, act
     default: return state
   }
 }
-
-
 ```
+
+## Contributing
+
+Pull requests for new features, bug fixes, and suggestions are welcome!
 
 ## Licence
 
