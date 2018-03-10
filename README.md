@@ -28,7 +28,7 @@ Typically when working with redux I work with API's or other things that may suc
 - Quick start
   - [Install](#install)
   - [Usage](#usage)
-  - [Licence](#usage)
+  - [Licence](#licence)
 
 
 ## Install
