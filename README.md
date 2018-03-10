@@ -17,7 +17,7 @@ yarn add redux-status-helpers
 Import Statuses you require
 
 ```js
-import { success, fail, in_progress } from 'redux-status-helpers'
+import { success, fail, inProgress } from 'redux-status-helpers'
 ```
 
 Dispatch your type
