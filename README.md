@@ -85,4 +85,4 @@ Pull requests for new features, bug fixes, and suggestions are welcome!
 
 ## Licence
 
-<a href="https://github.com/jxshco/redux-status-helpers/blob/master/LICENCE">MIT</a>
+[MIT](https://github.com/jxshco/redux-status-helpers/blob/master/LICENSE)
