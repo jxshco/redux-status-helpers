@@ -1,4 +1,4 @@
-import { success, fail, inProgress } from '../src'
+import { success, fail, cancelled } from '../src'
 
 test('success creates correct string', () => {
   expect(success('LOGIN')).toBe('LOGIN__SUCCESS')
@@ -8,6 +8,6 @@ test('fail creates correct string', () => {
   expect(fail('LOGIN')).toBe('LOGIN__FAILURE')
 })
 
-test('inProgress creates correct string', () => {
-  expect(inProgress('LOGIN')).toBe('LOGIN__IN_PROGRESS')
+test('cancelled creates correct string', () => {
+  expect(cancelled('LOGIN')).toBe('LOGIN__CANCELLED')
 })

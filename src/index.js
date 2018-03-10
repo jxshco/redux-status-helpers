@@ -1,9 +1,9 @@
 const success = (inp) => `${inp}__SUCCESS`
 const fail = (inp) => `${inp}__FAILURE`
-const inProgress = (inp) => `${inp}__IN_PROGRESS`
+const cancelled = (inp) => `${inp}__CANCELLED`
 
 export {
   success,
   fail,
-  inProgress
+  cancelled
 }

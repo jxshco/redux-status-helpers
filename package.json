@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "babel src -d lib",
-    "prepublish": "npm run build",
+    "prepublish": "npm run lint && npm run build",
     "lint": "eslint src tests",
     "test": "jest"
   },
@@ -21,6 +21,9 @@
     "redux",
     "javascript",
     "status",
+    "success",
+    "fail",
+    "cancelled",
     "es6"
   ],
   "author": "Josh Sturrock <hello@jxsh.co>",
