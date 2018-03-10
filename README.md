@@ -1,5 +1,7 @@
 # Redux Status Helpers [![Build Status](https://travis-ci.org/jxshco/redux-status-helpers.svg?branch=master)](https://travis-ci.org/jxshco/redux-status-helpers) [![https://npmjs.org/jxshco/redux-status-helpers](https://img.shields.io/npm/dt/redux-status-helpers.svg)](https://www.npmjs.com/package/redux-status-helpers) [![https://npmjs.org/jxshco/redux-status-helpers](https://img.shields.io/npm/v/redux-status-helpers.svg)](https://www.npmjs.com/package/redux-status-helpers)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jxshco/redux-status-helpers.svg)](https://greenkeeper.io/)
+
 #### Structure Redux Better with Different Statuses
 
 ## Install
