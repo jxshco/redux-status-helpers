@@ -22,7 +22,7 @@
     "javascript",
     "status",
     "success",
-    "fail",
+    "failure",
     "cancelled",
     "es6"
   ],
@@ -48,6 +48,8 @@
   "jest": {
     "transform": {
       "^.+\\.jsx?$": "babel-jest"
-    }
+    },
+    "verbose": true,
+    "testURL": "http://localhost/"
   }
 }
