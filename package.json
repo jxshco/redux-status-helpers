@@ -1,6 +1,6 @@
 {
   "name": "redux-status-helpers",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Structure Redux Better with Different Statuses",
   "main": "./lib/index.js",
   "directories": {
